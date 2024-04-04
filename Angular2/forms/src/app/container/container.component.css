@@ -1,0 +1,10 @@
+div{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    height: 500px;
+    background-color: cadetblue;
+}
